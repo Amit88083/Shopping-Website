@@ -8,8 +8,6 @@
 - <b>Language and Technology: </b> PHP, HTML, CSS, JS & MySQL
 - <b>Author Name :</b> Amit Singh(me) & Ritik Kumar
 
-- <b>Website link :</b>[Click here🎉](http://pluto-update.epizy.com/Pluto-Update-master/index.html)
-
 - <b>Login Details: </b> 
   - Username: Ana 
   - Password: 786 
